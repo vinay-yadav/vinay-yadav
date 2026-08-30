@@ -90,3 +90,5 @@ If you're interested in backend engineering, scalable systems, or just building 
 
 **GitHub:** [vinay-yadav](https://github.com/vinay-yadav)  
 **LeetCode:** [Vinay-vy](https://leetcode.com/u/Vinay-vy/)
+
+<a href="https://github.com/vinay-yadav/vinay-yadav/blob/main/github-user-contribution.svg" rel="nofollow"><img src="https://raw.githubusercontent.com/vinay-yadav/vinay-yadav/8240efed5281a34b49360bd45dadfe0f58bc5794/github-user-contribution.svg" alt="github-user-contribution" data-canonical-src="https://raw.githubusercontent.com/vinay-yadav/vinay-yadav/8240efed5281a34b49360bd45dadfe0f58bc5794/github-user-contribution.svg" style="max-width:100%;"></a>
