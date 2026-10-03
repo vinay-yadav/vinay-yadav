@@ -62,8 +62,7 @@ I've also worked on:
 | Project | What it demonstrates |
 | --- | --- |
 | **CBN Parser Testing Framework** | Django · React · Automation · Testing |
-| **Trip Recommendation Microservices** | Microservices · Reusable architecture · Backend design |
-| **Logistics Automation Systems** | Django REST · PostgreSQL · Celery · Redis |
+| **Third-Party API Integration Microservice** | Microservices · Django REST · PostgreSQL · Celery · Redis |
 
 ---
 
